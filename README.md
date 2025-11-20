@@ -5,7 +5,7 @@
 ### Team Members
 
 - Sikolethu Mkhabela - 202101251
-- [Partner Name] - [Student ID]
+- Simanga Fakudze - 202003666
 
 ### Project Overview
 
@@ -94,7 +94,7 @@ producer-consumer-project/
 - **Repository URL**: [Your GitHub URL]
 - **Team Member Profiles**:
   - siko13-bot
-  - [Member 2 GitHub Profile]
+  - simangafakudze
 
 ### Part 3: Socket Programming [20 Marks]
 
