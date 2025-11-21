@@ -93,8 +93,8 @@ producer-consumer-project/
 - Collaborative development environment
 - **Repository URL**: [Your GitHub URL]
 - **Team Member Profiles**:
-  - siko13-bot
-  - simangafakudze
+  - [siko13-bot](https://github.com/siko13-bot)
+  - [simangafakudze](https://github.com/202003666)
 
 ### Part 3: Socket Programming [20 Marks]
 
