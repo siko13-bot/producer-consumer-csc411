@@ -127,7 +127,7 @@ producer-consumer-project/
 1. **Clone the repository**:
 
 ```bash
-git clone [your-github-url]
+git clone https://github.com/siko13-bot
 cd producer-consumer-project
 ```
 
