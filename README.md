@@ -353,7 +353,7 @@ This project is submitted as part of CSC411 coursework at the University of Eswa
 
 For questions or issues, please contact:
 
-- [Your Email]
+- sikomkhabela@gmail.com
 - [Partner Email]
 
 **Submission Date**: November 23, 2025
